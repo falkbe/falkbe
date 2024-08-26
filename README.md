@@ -1,6 +1,6 @@
 ## About me
 
-Third year undergraduate computer science student at ETH Zürich.
+Third year computer science undergraduate student at ETH Zürich.
 <!--
 **falkbe/falkbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
